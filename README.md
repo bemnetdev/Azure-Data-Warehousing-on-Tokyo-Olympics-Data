@@ -4,8 +4,11 @@ In this project I have created a Data Pipeline and Warehouse using Azure Data Se
 ![Project-Process-Folw!](https://github.com/bemnetdev/Azure-Data-Warehousing-on-Tokyo-Olympics-Data/assets/95673735/65e37fee-4a34-419b-8be5-d49b39048a76)
 
 ### Project Executed By : 
+
 Bemnet Girma Sahilu
+
 Email: bemnet.dev@gmail.com
+
 LinkedIn : ![Bemnet Girma!]l(https://inkedin.com/in/bemnetdev)
 
 ## Project Problem: 
@@ -16,16 +19,22 @@ Created a Data Pipeline and Warehouse using Azure Data Services to address the s
 
 ## Project Goals:
 •	Aggregate Tokyo Olympics data for analysis.
+
 •	Implement an end-to-end data pipeline using Azure Data Services.
+
 •	Improve data quality and performance for downstream stakeholders.
+
 •	Enable data-driven decision making and support for Machine Learning projects.
 
 ## Project Timeline: July 8th 2021 to July 11th 2021
 
 ## Project Milestones:
 •	Data extraction and ingestion using Azure Data Factory: July 8th 2021
+
 •	Data transformation using Azure Databricks: July 9th 2021
+
 •	Data storage and analytics using Azure Synapse Analytics: July 10th 2021
+
 •	Project completion and documentation: July 11th 2021
 
 ## Project Scope:
@@ -51,7 +60,7 @@ Created a Data Pipeline and Warehouse using Azure Data Services to address the s
 
 ## Data Sources:
 #### [Tokyo Olympics Data API](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
-![Project-Process-Folw!]()
+![Project-Process-Folw!](https://github.com/bemnetdev/Azure-Data-Warehousing-on-Tokyo-Olympics-Data/assets/95673735/e757df8e-df61-4727-a5f4-d5dfa5123054)
 
 
 
