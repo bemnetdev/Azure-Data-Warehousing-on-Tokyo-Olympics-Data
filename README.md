@@ -10,7 +10,7 @@ Bemnet Girma Sahilu
 
 Email: bemnet.dev@gmail.com
 
-LinkedIn : [Bemnet Girma](https://inkedin.com/in/bemnetdev)
+LinkedIn : [Bemnet Girma](https://linkedin.com/in/bemnetdev)
 
 
 ## Project Problem: 
